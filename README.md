@@ -1,16 +1,43 @@
-## Hi there 👋
+# ⚡ Ayanokoji — Chief Chaos Engineer of the Multiverse ⚡  
 
-<!--
-**shadowm-mounarch/shadowm-mounarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "If it runs, ship it. If it crashes, call it a feature." – me, probably  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧨 Stats That Don’t Matter  
+- 🧠 IQ: 9000+ (measured by ChatGPT hallucinations)  
+- 🚀 Pushed 3 SaaS projects before breakfast  
+- 🐍 Python purist trapped in a TypeScript nightmare  
+- 🧾 Readme-driven-development believer  
+- 👑 **Runs a portfolio of 5 SaaS products** like I’m collecting Pokémon but with server bills  
+
+---
+
+## 🐉 Skills That Summon Dragons
+- **Python** 🐍 (actually knows it)  
+- **TypeScript** ⚔️ (doesn’t but repos look clean af)  
+- **Git** 🤡 (accidentally pushed `.env` once, we don’t talk about it)  
+- **Low-Code AI Magic** 🔮 (automating my laziness)  
+- **Deleting `.next` folders** 🗑️ like therapy  
+
+---
+
+## 🪦 Things I’ve Killed
+- Production servers at 3AM  
+- npm install (too slow → rage quit)  
+- Motivation after debugging for 2 hours  
+- AWS free tier (they hate me btw)  
+
+---
+
+## 🌀 Random Chaos Generator
+```py
+import random
+
+chaos = ["🚀 Launching bugs into prod", 
+         "🔥 Accidentally rm -rf /",
+         "😈 Writing docs in Comic Sans",
+         "🤡 Pushing to main on Friday night",
+         "👑 Flexing 5 SaaS products while crying over billing emails"]
+
+print(random.choice(chaos))
