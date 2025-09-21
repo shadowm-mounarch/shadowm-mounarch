@@ -1,4 +1,4 @@
-# ⚡ shadow — Chief Chaos Engineer of the Multiverse ⚡  
+# ⚡ shadow | Chief Chaos Engineer of the Multiverse |⚡  
 
 > "If it runs, ship it. If it crashes, call it a feature." – me, probably  
 
