@@ -22,7 +22,7 @@
 
 ---
 
-## 🪦 Things I’ve Killed
+## 🪦 Things I’ve destroyed
 - Production servers at 3AM  
 - npm install (too slow → rage quit)  
 - Motivation after debugging for 2 hours  
