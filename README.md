@@ -41,3 +41,14 @@ chaos = ["🚀 Launching bugs into prod",
          "👑 Flexing 5 SaaS products while crying over billing emails"]
 
 print(random.choice(chaos))
+
+
+
+```py
+my clac project cuz everyone do it like it is casio
+
+print(eval(input("your math here: ")))
+```
+
+
+and yes I used eval
