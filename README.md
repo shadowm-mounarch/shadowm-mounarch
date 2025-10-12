@@ -34,7 +34,7 @@
 <div>
   <ul>
     <li><b>Python</b> 🐍 (actually knows it)</li>
-    <li><b>TypeScript</b> ⚔️ (doesn’t but repos look clean af)</li>
+    <li><b>TypeScript</b> repos look clean af — don’t ask how)</li>
     <li><b>Git</b> 🤡 (accidentally pushed <code>.env</code> once, we don’t talk about it)</li>
     <li><b>Low-Code AI Magic</b> 🔮 (automating my laziness)</li>
     <li><b>Deleting <code>.next</code> folders</b> 🗑️ like therapy</li>
