@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>🧾</td>
-    <td>Readme-driven-development believer(i don`t know what that means)</td>
+    <td>README-driven-development believer (I still don’t know what it means tho)</td>
   </tr>
   <tr>
     <td>👑</td>
