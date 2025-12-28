@@ -43,12 +43,18 @@
     <td align="center" width="50%">
       <h3>🧠 Identity Module (v3.7-beta)</h3>
       <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=shadow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=4c65e4&text_color=999" />
+      <!-- REPLACE 'shadow' WITH YOUR GITHUB USERNAME -->
+      <a href="https://github.com/shadow">
+        <img src="https://github-readme-stats.vercel.app/api?username=shadow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=ffffff&icon_color=4c65e4&text_color=999" />
+      </a>
     </td>
     <td align="center" width="50%">
       <h3>📊 Flux Capacitor Metrics</h3>
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow&theme=tokyonight&hide_border=true&background=00000000&ring=4c65e4&fire=4c65e4&currStreakLabel=ffffff" />
+      <!-- REPLACE 'shadow' WITH YOUR GITHUB USERNAME -->
+      <a href="https://github.com/shadow">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow&theme=tokyonight&hide_border=true&background=transparent&ring=4c65e4&fire=4c65e4&currStreakLabel=ffffff" />
+      </a>
     </td>
   </tr>
 </table>
