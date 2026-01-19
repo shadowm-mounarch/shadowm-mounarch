@@ -3,12 +3,6 @@
 
 ---
 
-## 🖥️ GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadow&show_icons=true&theme=tokyonight)](https://github.com/shadow)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shadow&theme=tokyonight)](https://github.com/shadow)
-
----
-
 ## 🧩 Tech Stack
 | Language / Framework | Proficiency |
 | :--- | :---: |
