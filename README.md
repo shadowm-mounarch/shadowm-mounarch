@@ -1,5 +1,5 @@
 # Shadow 🚀
-*Chief Chaos Engineer · SaaS Hoarder · AI Gremlin*
+*Chief Chaos Engineer of the meta-vers · SaaS Hoarder · AI Gremlin*
 
 ---
 
